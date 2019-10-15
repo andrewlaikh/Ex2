@@ -16,7 +16,7 @@ int main()
 
    encode("Washington", soundex);
    cout << "The soundex coding for 'Washington' is " << soundex << endl;
-
+   
    encode("Leeson", soundex);
    cout << "The soundex coding for 'Leeson' is " << soundex << endl;
 
